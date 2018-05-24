@@ -1,0 +1,5 @@
+LIBRARY hook
+EXPORTS
+	InstallHook				@1
+	UnInstallHook			@2
+	LowLevelKeyboardProc	@3
